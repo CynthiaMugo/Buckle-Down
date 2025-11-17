@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <div>
-        <p>
+        <p className='text-3xl font-bold'> 
         Let's build something amazing with React and Vite!
       </p>
 
