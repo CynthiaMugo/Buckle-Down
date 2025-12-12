@@ -1,15 +1,15 @@
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
+import Hero from './pages/Hero'
+import './index.css'
 
 function App() {
 
   return (
     <>
       <div>
-        <p className='text-3xl font-bold'> 
-        Let's build something amazing with React and Vite!
-      </p>
+        <Hero />
 
       </div>
       
